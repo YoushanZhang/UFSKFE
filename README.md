@@ -16,6 +16,35 @@ Here is the result of GH060066.mp4 video using our proposed UFSKFE model.
 ## Figures
 
 
+<p align="center">
+  <img src="./Video/video_figure.png" width="50%">  
+</p>
+
+<p align="center"> Milking rotation parlor</p>
+
+
+<p align="center">
+  <img src="./Video/model_kf2.png" width="70%">  
+</p>
+
+<p align="center"> Unsupervised few-shot key frame extraction (UFSKFE) scheme  </p>
+
+
+
+## Cow teat data
+
+
+<p align="center">
+  <img src="./Video/statis.png" width="50%">  
+</p>
+
+
+## Results
+
+<p align="center">
+  <img src="./Video/re.png" width="100%">  
+</p>
+
 
 
 ### Reference
