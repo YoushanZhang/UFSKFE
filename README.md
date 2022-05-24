@@ -6,9 +6,17 @@ The datasets are available at [this link](https://doi.org/10.5281/zenodo.6572956
 
 If you have any questions, please email to yz945@cornell.edu
 
+## Example
+Here is the result of GH060066.mp4 video using our proposed UFSKFE model.
 
-<video src="./Video/UFSKFE_GH060066.mp4" controls="controls" style="max-width: 730px;">
-</video>
+![UFSKFE_GH060066 results](./Video/UFSKFE_GH060066.gif)
+<p align="center">UFSKFE_GH060066.mp4 results</p>
+
+
+## Figures
+
+
+
 
 ### Reference
 
