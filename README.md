@@ -60,7 +60,7 @@ Or in bibtex style:
 
 ```
 
-@Article{data7050068,
+@Article{zhang2022unsupervised,
 AUTHOR = {Zhang, Youshan and Wieland, Matthias and Basran, Parminder S.},
 TITLE = {Unsupervised Few Shot Key Frame Extraction for Cow Teat Videos},
 JOURNAL = {Data},
