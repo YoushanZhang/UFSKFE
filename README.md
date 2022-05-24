@@ -7,7 +7,7 @@ The datasets are available at [this link](https://doi.org/10.5281/zenodo.6572956
 If you have any questions, please email to yz945@cornell.edu
 
 
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+<video src="./Video/UFSKFE_GH060066.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 ### Reference
